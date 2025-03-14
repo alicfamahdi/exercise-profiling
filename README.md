@@ -71,3 +71,15 @@ Then, I ensure the changes doesn't affect the original functionality with perfor
 
 - /all-student endpoint after optimization
   ![prof_1_ao.png](prof_1_ao.png)
+
+- /all-student-name endpoint before optimization
+  ![prof_2_bo.png](prof_2_bo.png)
+
+- /all-student-name endpoint after optimization
+  ![prof_2_ao.png](prof_2_ao.png)
+
+- /highest-gpa endpoint before optimization
+  ![prof_3_bo.png](prof_3_bo.png)
+
+- /highest-gpa endpoint after optimization
+  ![prof_3_ao.png](prof_3_ao.png)
