@@ -83,3 +83,12 @@ Then, I ensure the changes doesn't affect the original functionality with perfor
 
 - /highest-gpa endpoint after optimization
   ![prof_3_ao.png](prof_3_ao.png)
+
+- /all-student endpoint after optimization, Jmeter
+  ![prof_1_ao_jm.png](prof_1_ao_jm.png)
+
+- /all-student-name endpoint after optimization, Jmeter
+  ![prof_2_ao_jm.png](prof_2_ao_jm.png)
+
+- /highest-gpa endpoint after optimization, Jmeter
+  ![prof_3_ao_jm.png](prof_3_ao_jm.png)
